@@ -15,7 +15,7 @@
   #header {
     height: 40px;
     width: 100%;
-    background-color: #f7f0f0;
+    background-color: #d0203b;
     position: fixed;
     z-index: 1;
   }
@@ -27,7 +27,7 @@
   #footer {
     height: 50px;
     width: 100%;
-    background-color: #d0e0d2;
+    background-color: #e0a8ce;
     clear: both;
     position: relative;
   }
@@ -35,7 +35,7 @@
   .left {
     height: 1000px;
     width: 45px;
-    background-color: #d0e0d2;
+    background-color: #e0a8ce;
     float: left;
     position: fixed;
   }
@@ -43,7 +43,7 @@
   .right {
     height: 1000px;
     width: 45px;
-    background-color: #d0e0d2;
+    background-color: #e0a8ce;
     float: right;
     position: inherit;
   }
